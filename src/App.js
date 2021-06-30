@@ -1,23 +1,26 @@
-import logo from './logo.svg';
-import './App.css';
+import { useEffect, useState } from "react";
+import Header from "./Header";
+import Quiz from "./Quiz";
+import FunFacts from "./FunFacts";
 
 function App() {
+  const [states, setStates] = useState([])
+
+  useEffect(() => {
+    fetch('http://localhost:3000/states')
+    .then(res => res.json())
+    .then(data => setStates(data))
+  }, []);
+
+
+
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <Header />
+      <Quiz />
+      <FunFacts 
+      states={states}
+      />
     </div>
   );
 }
