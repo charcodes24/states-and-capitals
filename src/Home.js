@@ -1,23 +1,13 @@
-import { useHistory } from "react-router-dom";
+import { Link } from "react-router-dom";
 
 
 function Home() {
-    const history = useHistory();
-
-    function handleQuizClick() {
-        history.push("/quiz")
-    }
-
-    function handleFunFactsClick() {
-        history.push("/funfacts")
-    }
-
 
     return (
         <div>
             <h1>How well do you know the U.S. states?</h1>
-            <button type="button" onClick={handleQuizClick}>Quizzes</button>
-            <button type="button" onClick={handleFunFactsClick}>Fun Facts</button>
+            <Link to="/quiz"><button type="button"  className="ui button">Quiz</button></Link>
+            <Link to="/funfacts"><button type="button" className="ui button">Fun Facts</button></Link>
         </div>
     )
 }

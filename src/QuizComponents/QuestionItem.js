@@ -1,35 +1,76 @@
 import { useState, useEffect } from "react";
+import ScoreCard from "./ScoreCard";
 
-function QuestionItem({ state, nextQuestion }) {
-    const [timer, setTimer] = useState(90)
-    const [score, setScore] = useState(0)
-    const {name, "answers":{answer1, answer2, answer3, answer4}, capital} = state
+function QuestionItem({ state, answer, nextQuestion, score, handleInput, addNewScore, resetQuiz }) {
+    const [timer, setTimer] = useState(5)
+    const {name, "answers":{answer1, answer2, answer3, answer4} } = state
+
+    console.log(state.answers)
 
     useEffect(() => {
-        timer > 0 && setTimeout(() => setTimer(timer - 1), 1500)
+        timer > 0 && setTimeout(() => setTimer(timer - 1), 1000)
+        
     }, [timer]);
 
-    
+ 
 
-    return (
-        <div>
+
+    function renderQuestion() {
+        return (
             <div>
-                TIMER: {timer}
+                <h5>TIMER: {timer}</h5>
+                <h5>SCORE: {score}/50</h5>
+                <div className="question">
+                    <h3>What's the state capital of {name}?</h3>
+                <div className="ui form">
+                    <div className="inline fields radio checkbox">
+                        <input 
+                            type="radio" 
+                            id={answer1}
+                            checked={answer===answer1}
+                            value={answer1} 
+                            name="choice"
+                            onChange={handleInput}
+                        />
+                        <label>{answer1}</label>
+                        <input 
+                            type="radio" 
+                            id={answer2}
+                            checked={answer===answer2}
+                            value={answer2} 
+                            name="choice"
+                            onChange={handleInput}
+                        />
+                        <label>{answer2}</label>
+                        <input 
+                            type="radio" 
+                            id={answer3}
+                            checked={answer===answer3}
+                            value={answer3} 
+                            name="choice"
+                            onChange={handleInput}
+                        />
+                        <label>{answer3}</label>
+                        <input 
+                            type="radio" 
+                            id={answer4}
+                            checked={answer===answer4}
+                            value={answer4} 
+                            name="choice"
+                            onChange={handleInput}
+                        />
+                        <label>{answer4}</label>
+                        </div>
+                        <br/>
+                        <button onClick={nextQuestion}>Next Question</button>
+                    </div>
+                </div>
             </div>
-            <div>
-                SCORE: {score}/50
-            </div>
-            <div>
-                <h3>What's the state capital of? {name}</h3>
-            </div>
-            <div>
-                <div onClick={nextQuestion} value={answer1}>{answer1}</div>
-                <div onClick={nextQuestion} value={answer2}>{answer2}</div>
-                <div onClick={nextQuestion} value={answer3}>{answer3}</div>
-                <div onClick={nextQuestion} value={answer4}>{answer4}</div>
-            </div>
-        </div>
-    )
+        )
+    }
+
+    {return (timer === 0) ? <ScoreCard score={score} resetQuiz={resetQuiz}/> : renderQuestion()}
+
 }
 
 export default QuestionItem;

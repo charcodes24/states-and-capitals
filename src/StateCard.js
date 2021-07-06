@@ -1,9 +1,8 @@
-import { useState } from "react";
-
 function StateCard({ state, updateLikes }) {
     const {id, name, capital, image, fact, likes} = state
 
     function upVote(e) {
+        e.preventDefault();
         const configObj = {
             method: "PATCH", 
             headers: {
@@ -18,15 +17,26 @@ function StateCard({ state, updateLikes }) {
         })
     }
 
+    const imageStyle = {
+        width: "300px", 
+        height: "300px"
+    }
+
 
     return (
-        <div>
-            <h2>State:{name}</h2>
+        <div className="column">
+            <h2>{name}</h2>
             <h3>Capital:{capital}</h3>
-            <img src={image}/>
+            <img src={image} className="image" style={imageStyle}/>
             <p>Fun Fact: {fact}</p>
-            <p>Total Likes:{likes}</p>
-            <button onClick={upVote}>💙</button>
+            <div onClick={upVote} className="ui labeled button" tabindex="0">
+                <div className="ui button">
+                    <i className="heart icon"></i> Like
+                </div>
+                <a className="ui basic left pointing label">
+                 {likes}
+                </a>
+            </div>
         </div>
     )
 }

@@ -12,7 +12,7 @@
       },
       "image": "https://images.unsplash.com/photo-1547833189-5be29146428d?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8YWxhYmFtYXxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
       "fact": "While Mardi Gras is most associated with New Orleans, the Alabama city of Mobile is where the tradition originated in the US.",
-      "likes": 9
+      "likes": 33
     },
     {
       "id": 2,
@@ -26,7 +26,7 @@
       },
       "image": "https://images.unsplash.com/photo-1574866412308-32d9023633dd?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8YWxhc2thfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
       "fact": "Not only is Alaska the largest state in the country (more than twice as large as Texas), Wrangell–St Elias National Park & Preserve covers a larger area than nine US states.",
-      "likes": 10
+      "likes": 18
     },
     {
       "id": 3,
@@ -40,7 +40,7 @@
       },
       "image": "https://images.unsplash.com/photo-1609810074355-29137827b2c4?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fGFyaXpvbmF8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
       "fact": "Don’t get too close (ouch!) or scratch initials in saguaro cactus; fines for cactus graffiti run up to $5,000.",
-      "likes": 4
+      "likes": 12
     },
     {
       "id": 4,
@@ -54,7 +54,7 @@
       },
       "image": "https://images.unsplash.com/photo-1605027628030-9bb6f83535e6?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8YXJrYW5zYXN8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
       "fact": "Home to America's only operational diamond mine – Crater Diamonds State Park.",
-      "likes": 5
+      "likes": 7
     },
     {
       "id": 5,
@@ -68,7 +68,7 @@
       },
       "image": "https://images.unsplash.com/photo-1446630073557-fca43d580fbe?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjF8fGNhbGlmb3JuaWF8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
       "fact": "California's Sequoia National Park is home to the world's biggest tree by volume, a sequoia named General Sherman.  ",
-      "likes": 5
+      "likes": 9
     },
     {
       "id": 6,
@@ -82,7 +82,7 @@
       },
       "image": "https://images.unsplash.com/photo-1468711007652-03aab17ae4d2?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Y29sb3JhZG98ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
       "fact": "The 13th step leading to the entrance of the Colorado State Capitol in Denver is exactly 1 mile above sea level. ",
-      "likes": 8
+      "likes": 20
     },
     {
       "id": 7,
@@ -96,7 +96,7 @@
       },
       "image": "https://images.unsplash.com/photo-1598040452656-f3657cdb27aa?ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8M3w5MjU0MDM4fHxlbnwwfHx8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
       "fact": "“Yankee Doodle,” the state song, is believed to have been penned in derision by the British about Connecticut volunteers in the French and Indian War. ",
-      "likes": 2
+      "likes": 5
     },
     {
       "id": 8,
@@ -110,7 +110,7 @@
       },
       "image": "https://images.unsplash.com/photo-1592945615363-04e156674ae9?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8ZGVsYXdhcmV8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
       "fact": "Jamaican reggae star Bob Marley lived in Delaware from 1965 to 1977. ",
-      "likes": 7
+      "likes": 18
     },
     {
       "id": 9,
@@ -124,7 +124,7 @@
       },
       "image": "https://images.unsplash.com/photo-1605723517503-3cadb5818a0c?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8ZmxvcmlkYXxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
       "fact": "South Florida is the only place in the world where both crocodiles and alligators can be found in the wild. ",
-      "likes": 1
+      "likes": 6
     },
     {
       "id": 10,
@@ -152,7 +152,7 @@
       },
       "image": "https://images.unsplash.com/photo-1505852679233-d9fd70aff56d?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8aGF3YWlpfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
       "fact": "Hawaii has the most isolated large population center on Earth, almost 2,400 miles from California and about 4,000 miles from Japan.",
-      "likes": 2
+      "likes": 8
     },
     {
       "id": 12,
@@ -180,7 +180,7 @@
       },
       "image": "https://images.unsplash.com/photo-1556684996-c32e7604965a?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8aWxsaW5vaXN8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
       "fact": "Willis Tower (formerly Sears Tower) was the tallest building in the Americas until One World Trade Center in New York City eclipsed it, but the Willis Tower roof stands 100ft higher than that of One WTC, which took the title based on its lofty spire. ",
-      "likes": 2
+      "likes": 10
     },
     {
       "id": 14,
@@ -236,7 +236,7 @@
       },
       "image": "https://images.unsplash.com/photo-1578582805561-4abd22211b9e?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8a2VudHVja3l8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
       "fact": "Although Kentucky is the home of bourbon, about a fifth of the state’s 120 counties are completely dry, meaning no liquor sales allowed. ",
-      "likes": 1
+      "likes": 2
     },
     {
       "id": 18,
@@ -334,7 +334,7 @@
       },
       "image": "https://images.unsplash.com/photo-1606494108752-9ae72e2ee1c9?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8bWlzc2lzc2lwcGl8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
       "fact": "The name of the state comes from the Ojibwe words Misi zipi, or “Great River.”",
-      "likes": 1
+      "likes": 2
     },
     {
       "id": 25,
@@ -348,7 +348,7 @@
       },
       "image": "https://images.unsplash.com/photo-1514893011-72dfa15bd29c?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8bWlzc291cml8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
       "fact": "Missouri was named after a tribe of Sioux Indians called the Missouria, or Missouri. The name means “he of the big canoe”.",
-      "likes": 1
+      "likes": 2
     },
     {
       "id": 26,
@@ -404,7 +404,7 @@
       },
       "image": "https://images.unsplash.com/photo-1541427468627-a89a96e5ca1d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8bmV3JTIwaGFtcHNoaXJlfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
       "fact": "The first free public library was founded in Peterborough, New Hampshire in 1833.",
-      "likes": 1
+      "likes": 2
     },
     {
       "id": 30,
@@ -418,7 +418,7 @@
       },
       "image": "https://images.unsplash.com/photo-1581782454084-d674f222419c?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8bmV3JTIwamVyc2V5fGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
       "fact": "New Jersey has the most diners in the country. ",
-      "likes": 1
+      "likes": 2
     },
     {
       "id": 31,
@@ -432,7 +432,7 @@
       },
       "image": "https://images.unsplash.com/photo-1552323543-4cffa4ffffe3?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8bmV3JTIwbWV4aWNvfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
       "fact": "New Mexico has an official state question: “Red or green?” This refers to which variety of chile sauce you’d like on your food. Answer “Christmas,” and you’ll get both.",
-      "likes": 1
+      "likes": 2
     },
     {
       "id": 32,
@@ -544,7 +544,7 @@
       },
       "image": "https://images.unsplash.com/photo-1579379498402-48d6751d1ae9?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8cmhvZGUlMjBpc2xhbmR8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
       "fact": "Rhode Island played host to the first open golf tournament in 1865.",
-      "likes": 1
+      "likes": 2
     },
     {
       "id": 40,
@@ -572,7 +572,7 @@
       },
       "image": "https://images.unsplash.com/photo-1447727214830-cbcbf097b52c?ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8c291dGglMjBkYWtvdGF8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
       "fact": "South Dakota has more lines of shoreline than Florida.",
-      "likes": 0
+      "likes": 2
     },
     {
       "id": 42,
@@ -586,7 +586,7 @@
       },
       "image": "https://images.unsplash.com/photo-1588167961380-280dbd18a70e?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8dGVubmVzc2VlfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
       "fact": "Nashville’s Grand Ole Opry hosts the longest continuously running live radio program in the world, broadcast every weekend since 1925.",
-      "likes": 0
+      "likes": 6
     },
     {
       "id": 43,
@@ -600,7 +600,7 @@
       },
       "image": "https://images.unsplash.com/photo-1530089711124-9ca31fb9e863?ixid=MnwxMjA3fDB8MHxzZWFyY2h8OXx8dGV4YXN8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
       "fact": "The official state dessert is pecan pie, surely because the state is so rich in pecan trees (it’s third in the nation for its pecan harvest). Ooey, gooey and delicious, Lady Bird Johnson brought a recipe for this favorite Texas treat along to the White House when she became first lady.",
-      "likes": 0
+      "likes": 5
     },
     {
       "id": 44,
@@ -614,21 +614,21 @@
       },
       "image": "https://images.unsplash.com/photo-1575408264798-b50b252663e6?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXRhaHxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
       "fact": "Pando, a grove of quaking aspens in Utah’s Fishlake National Forest, is one of the world’s largest and oldest living organisms, linked through a shared root system. ",
-      "likes": 0
+      "likes": 2
     },
     {
       "id": 45,
       "name": "Vermont",
       "capital": "Montpelier",
       "answers": {
-        "answer1": "Monpelier",
+        "answer1": "Montpelier",
         "answer2": "Burlington",
         "answer3": "Stowe",
         "answer4": "Brattleboro"
       },
       "image": "https://images.unsplash.com/photo-1604880050467-6ecc9ec909b3?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8dmVybW9udHxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
       "fact": "Vermont is the only state in the US to have its very own state flavor. That’s right: it’s maple.",
-      "likes": 0
+      "likes": 2
     },
     {
       "id": 46,
@@ -642,7 +642,7 @@
       },
       "image": "https://images.unsplash.com/photo-1603757305215-755d0a254a4b?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8dmlyZ2luaWF8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
       "fact": "Before colonists planted tobacco in Jamestown after a mulberry blight, silk was meant to be this colony’s cash crop.",
-      "likes": 0
+      "likes": 1
     },
     {
       "id": 47,
@@ -656,7 +656,7 @@
       },
       "image": "https://images.unsplash.com/photo-1596688056149-f649dc280cc8?ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8d2FzaGluZ3RvbnxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
       "fact": "Pub trivia in Seattle might host a picture round of salmon; Washingtonians are expected to know their spawning chinook from non-spawning coho.",
-      "likes": 0
+      "likes": 4
     },
     {
       "id": 48,
@@ -675,7 +675,7 @@
       ],
       "image": "https://images.unsplash.com/photo-1483141531895-191b34d33fd8?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8d2VzdCUyMHZpcmdpbmlhfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
       "fact": "On the third Saturday in October, hundreds of BASE jumpers parachute from the 876 foot-high New River Gorge Bridge, which is closed to vehicles for the event. Pedestrians can stroll the bridge, watch the action and shop at the many vendors.",
-      "likes": 0
+      "likes": 2
     },
     {
       "id": 49,
@@ -689,7 +689,7 @@
       },
       "image": "https://images.unsplash.com/photo-1561467059-f815ae1ef5eb?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8d2lzY29uc2lufGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
       "fact": "The Green Bay Packers are owned by the people of Green Bay (pop. just over 100,000). The football team is a nonprofit whose fans support it, and the team supports them with a bolstered economy, plenty of charitable giving and even a Lombardi Trophy from time to time. ",
-      "likes": 0
+      "likes": 2
     },
     {
       "id": 50,
@@ -703,7 +703,149 @@
       },
       "image": "https://images.unsplash.com/photo-1520051556831-05103c639f8e?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTh8fHd5b21pbmd8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
       "fact": "Devil's Tower was the first national monument in the US in 1906.",
-      "likes": 0
+      "likes": 2
+    }
+  ],
+  "scoreboard": [
+    {
+      "username": "charlene",
+      "score": 1,
+      "id": 1
+    },
+    {
+      "username": "blahblahblah",
+      "score": 2,
+      "id": 2
+    },
+    {
+      "username": "Hello",
+      "score": 1,
+      "id": 3
+    },
+    {
+      "username": "",
+      "score": 1,
+      "id": 4
+    },
+    {
+      "username": "",
+      "score": 1,
+      "id": 5
+    },
+    {
+      "username": "",
+      "score": 2,
+      "id": 6
+    },
+    {
+      "username": "",
+      "score": 4,
+      "id": 7
+    },
+    {
+      "username": "i dont know",
+      "score": 1,
+      "id": 8
+    },
+    {
+      "username": "charlene",
+      "score": 1,
+      "id": 9
+    },
+    {
+      "username": "charlene",
+      "score": 1,
+      "id": 10
+    },
+    {
+      "username": "hello",
+      "score": 2,
+      "id": 11
+    },
+    {
+      "username": "hello",
+      "score": 2,
+      "id": 12
+    },
+    {
+      "username": "hello",
+      "score": 2,
+      "id": 13
+    },
+    {
+      "username": "hello",
+      "score": 2,
+      "id": 14
+    },
+    {
+      "username": "hello",
+      "score": 2,
+      "id": 15
+    },
+    {
+      "username": "hello",
+      "score": 2,
+      "id": 16
+    },
+    {
+      "username": "hello",
+      "score": 2,
+      "id": 17
+    },
+    {
+      "username": "hello",
+      "score": 2,
+      "id": 18
+    },
+    {
+      "username": "hello",
+      "score": 2,
+      "id": 19
+    },
+    {
+      "username": "hello",
+      "score": 2,
+      "id": 20
+    },
+    {
+      "username": "hello",
+      "score": 2,
+      "id": 21
+    },
+    {
+      "username": "hello",
+      "score": 2,
+      "id": 22
+    },
+    {
+      "username": "hello",
+      "score": 2,
+      "id": 23
+    },
+    {
+      "username": "",
+      "score": 2,
+      "id": 24
+    },
+    {
+      "username": "got it",
+      "score": 2,
+      "id": 25
+    },
+    {
+      "username": "iWin",
+      "score": 1,
+      "id": 26
+    },
+    {
+      "username": "",
+      "score": 1,
+      "id": 27
+    },
+    {
+      "username": "",
+      "score": 1,
+      "id": 28
     }
   ]
 }
