@@ -58,3 +58,10 @@
     justify-content: center;
 }
 
+.ui.card:last-child {
+    margin: 1em 0;
+}
+
+.ui.card:first-child {
+    margin: 1em 0;
+}

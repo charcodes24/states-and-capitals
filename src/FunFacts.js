@@ -60,9 +60,7 @@ function FunFacts({ states, updateLikes } ) {
             </div>
             <div>
                 <div className="ui grid statecards">
-                    <div className="three column row">
                     {displayStates}
-                    </div>
                 </div>
             </div>
         </div>
