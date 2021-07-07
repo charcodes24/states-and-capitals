@@ -30,7 +30,7 @@ function FunFacts({ states, updateLikes } ) {
             return state2.likes - state1.likes
         } else if (sort === "oldestToYoungest") {
             return state1.est - state2.est
-        } else if (sort === "youngestToOldest") {
+        } else if (sort === "YoungestToOldest") {
             return state2.est - state1.est
         }
     })
