@@ -148,7 +148,7 @@
       "image": "https://images.unsplash.com/photo-1612461519938-53e83d4a9fa3?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fGdlb3JnaWElMkMlMjB1c2F8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
       "fact": "Gainesville, Georgia, often considered the poultry capital of the world, passed a 1961 law making it illegal to eat fried chicken with a fork. ",
       "est": 1788,
-      "likes": 2
+      "likes": 8
     },
     {
       "id": 11,
@@ -208,7 +208,7 @@
       "image": "https://images.unsplash.com/photo-1514442624917-484106ff24b3?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8aW5kaWFuYXxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
       "fact": "Indiana, the “Crossroads of America,” has more miles of interstate per sq mile than any other US state. ",
       "est": 1816,
-      "likes": 2
+      "likes": 6
     },
     {
       "id": 15,
@@ -493,7 +493,7 @@
       "image": "https://images.unsplash.com/photo-1605632200987-60fa857d4a15?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8bm9ydGglMjBjYXJvbGluYXxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
       "fact": "The waters off the Outer Banks became known as “The Graveyard of the Atlantic” after causing over 1,000 shipwrecks amidst its sandbars and strong currents.",
       "est": 1789,
-      "likes": 4
+      "likes": 8
     },
     {
       "id": 34,
@@ -673,7 +673,7 @@
       "image": "https://images.unsplash.com/photo-1604880050467-6ecc9ec909b3?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8dmVybW9udHxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
       "fact": "Vermont is the only state in the US to have its very own state flavor. That’s right: it’s maple.",
       "est": 1791,
-      "likes": 2
+      "likes": 5
     },
     {
       "id": 46,
@@ -821,6 +821,11 @@
       "username": "hello",
       "score": 4,
       "id": 14
+    },
+    {
+      "username": "Charlene",
+      "score": 3,
+      "id": 15
     }
   ]
 }

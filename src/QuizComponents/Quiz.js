@@ -20,7 +20,9 @@ function Quiz({ states }) {
   }
 
   function nextQuestion(e) {
-    setQuestionIndex(questionIndex + 1)
+    if (questionIndex < 51) {
+      setQuestionIndex(questionIndex + 1)
+    }
     if (answer === states[questionIndex].capital) {
       setScore(score + 1)
       setAnswer(e.target.value)

@@ -27,16 +27,11 @@ function Scoreboard() {
     })
 
     return (
-        <div style={tableDisplay}>
-            <h1 style={{color: 'red'}}>Top 10 Scores...</h1>
-            <table class="ui inverted blue table">
-                <thead>
-                    <tr><th>Name</th>
-                    <th>Score</th>\
-                </tr></thead><tbody>
-                    {displayScores}
-                </tbody>
-            </table>
+        <div>
+            <h1>Top 10 Scores...</h1>
+                <ol>
+                {displayScores}
+                </ol>
         </div>
     )
 }

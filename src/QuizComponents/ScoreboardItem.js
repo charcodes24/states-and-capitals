@@ -1,10 +1,7 @@
 function ScoreboardItem({ score }) {
     
     return (
-        <tr>
-            <td>{score.username}</td>
-             <td>{score.score}</td>
-        </tr>
+        <li>{score.username}...{score.score}</li>
     )
 }
 

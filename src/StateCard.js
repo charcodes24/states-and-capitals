@@ -24,11 +24,6 @@ function StateCard({ state, updateLikes }) {
 
     const backOfCardStyle = {
         textAlign: "center",
-        backgroundColor: 'black',
-        color: 'white',
-        width: '100%', 
-        height: '100%', 
-        transparency: '50%'
     }
 
 

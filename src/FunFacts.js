@@ -46,19 +46,23 @@ function FunFacts({ states, updateLikes } ) {
 
     return (
         <div>
-            <div>
-                <h1 style={{textAlign: 'center'}}>Fun Facts...</h1>
-            </div>
             <div style={{textAlign: 'center'}}>
-            <Search 
-            search={search}
-            handleSearchChange={handleSearchChange}
-            handleSortChange={handleSortChange}
-            />
+                <div>
+                    <h1>Fun Facts...</h1>
+                </div>
+                <div >
+                <Search 
+                search={search}
+                handleSearchChange={handleSearchChange}
+                handleSortChange={handleSortChange}
+                />
+                </div>
             </div>
-            <div className="ui grid" style={{padding: '10px'}}>
-                <div className="two column row">
-                {displayStates}
+            <div>
+                <div className="ui grid statecards">
+                    <div className="three column row">
+                    {displayStates}
+                    </div>
                 </div>
             </div>
         </div>
