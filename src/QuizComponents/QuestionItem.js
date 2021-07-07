@@ -5,11 +5,8 @@ function QuestionItem({ state, answer, nextQuestion, score, handleInput, resetQu
     const [timer, setTimer] = useState(10)
     const {name, "answers":{answer1, answer2, answer3, answer4} } = state
 
-    console.log(state.answers)
-
     useEffect(() => {
         timer > 0 && setTimeout(() => setTimer(timer - 1), 1000)
-
     }, [timer]);
 
 
@@ -72,8 +69,8 @@ function QuestionItem({ state, answer, nextQuestion, score, handleInput, resetQu
                         <label>{answer4}</label>
                     </div>
                 </div>
-                <div>
-                    <button className="ui submit button" onClick={nextQuestion}>Next Question</button>
+                <div className="next">
+                    <button className="ui blue basic button" onClick={nextQuestion}>Next Question</button>
                 </div>
            </div>
        )

@@ -1,5 +1,6 @@
 function StateCard({ state, updateLikes }) {
     const {id, name, capital, image, fact, likes, est, flag} = state
+    console.log(id)
 
     function upVote(e) {
         e.preventDefault();
@@ -48,7 +49,7 @@ function StateCard({ state, updateLikes }) {
         </div>
         <div className="extra content">
           <a onClick={upVote}>
-            <i className="heart icon" />
+            <i className={(id % 2 == 0) ? "red heart icon" : "blue heart icon"} />
             {likes}
           </a>
         </div>

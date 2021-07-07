@@ -4,8 +4,8 @@ import { Link } from "react-router-dom";
 function Home() {
 
     return (
-        <div style={{textAlign: 'center'}}>
-            <h1 style={{color: 'red'}}>U.S.A.</h1>
+        <div className="home">
+            <h1>U.S.A.</h1>
             <Link to="/quiz">
                 <button 
                     type="button"  

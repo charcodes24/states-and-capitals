@@ -27,12 +27,25 @@ function Scoreboard() {
     })
 
     return (
-        <div>
+        <div className="scoreboard">
             <h1>Top 10 Scores...</h1>
-                <ol>
-                {displayScores}
-                </ol>
+            <table className="ui very basic collapsing celled table">
+                <thead>
+                    <tr><th>Player</th>
+                    <th>Correct Guesses</th>
+                </tr></thead>
+                <tbody>
+                    {displayScores}
+                </tbody>
+            </table>
         </div>
+
+        // <div className="scoreboard">
+        //     <h1>Top 10 Scores...</h1>
+        //         <ol className="ordered-list">
+        //         {displayScores}
+        //         </ol>
+        // </div>
     )
 }
 

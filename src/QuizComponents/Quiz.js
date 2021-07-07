@@ -20,13 +20,14 @@ function Quiz({ states }) {
   }
 
   function nextQuestion(e) {
-    if (questionIndex < 51) {
+    if (answer === "") {
+      alert(`Please select an answer!`)
+    } else if (answer === states[questionIndex].capital && questionIndex < 51) {
       setQuestionIndex(questionIndex + 1)
-    }
-    if (answer === states[questionIndex].capital) {
       setScore(score + 1)
       setAnswer(e.target.value)
     } else {
+      setQuestionIndex(questionIndex + 1)
       setAnswer(e.target.value)
       return score
     }
@@ -56,8 +57,8 @@ function Quiz({ states }) {
 
   function renderStartQuizButton() {
     return (
-      <div style={{textAlign: 'center'}}>
-        <h1 style={{color: 'blue'}}>How many states & capitals can you get right in 60 seconds?</h1>
+      <div className="quiz">
+        <h1>How many state capitals can you get right in 60 seconds?</h1>
         <button 
           onClick={toggleDisplayQuestion} 
           style={{display: hideButton ? 'block' : null}} 

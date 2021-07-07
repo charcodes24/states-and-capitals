@@ -45,8 +45,8 @@ function FunFacts({ states, updateLikes } ) {
     })
 
     return (
-        <div>
-            <div style={{textAlign: 'center'}}>
+        <div className="funfacts-container">
+            <div className="title">
                 <div>
                     <h1>Fun Facts...</h1>
                 </div>

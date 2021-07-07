@@ -1,3 +1,5 @@
+
+/*styling for quiz items*/
 .answer {
     display: flex;
     flex-wrap: wrap;
@@ -7,14 +9,11 @@
 }
 
 .question {
-    background-color: rgb(79, 146, 223);
-    border-radius: 10px;
     padding-top: 10px;
     padding-bottom: 10px;
     padding-left: 5px;
     padding-right: 5px;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    font-size: 18px;
+    font-size: 16px;
 }
 
 .answer div {
@@ -25,9 +24,8 @@
     margin-bottom: 2px;
     margin-left: 1px;
     margin-right: 1px;
-    background-color: rgb(230, 129, 129);
+    border: .5px solid red;
     border-radius: 10px;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 18px;
 }
 
@@ -36,10 +34,21 @@
     display: flex;
     align-items: center;
     flex-direction: column;
+    margin-top: 18%;
 }
 
 .answer div input {
     margin: 5px;
+    opacity: .5;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+.next {
+    margin-top: 10px;
 }
 
 
@@ -48,10 +57,21 @@
     flex-direction: row;
     align-items: center;
     justify-content: center;
+    font-size: 18px;
 }
 
 .timer span {
     margin: 5px;
+}
+
+/*styling for fun facts page*/
+.title {
+    text-align: center;
+    margin-bottom: 3%;
+}
+
+.funfacts-container {
+    margin-top: 10%;
 }
 
 .statecards {
@@ -64,4 +84,67 @@
 
 .ui.card:first-child {
     margin: 1em 0;
+}
+
+/*styling for searchbar*/
+.searchbar {
+    display: flex;
+    margin-top: 3%;
+    margin-left: 25%;
+    margin-right: 25%;
+    max-width: 50%;
+}
+
+/*styling for NavBar*/
+.navs {
+    display: flex;
+    padding: 20px;
+    font-size: 20px;
+    overflow: hidden;
+    position: fixed;
+    top: 0;
+    z-index: 200;
+    background-color: white;
+    border-radius: 20px;
+}
+
+.navs div {
+    padding: 10px;
+    font: white !important;
+
+}
+
+/*styling for quiz home page*/
+.quiz {
+    text-align: center;
+    margin-top: 20%;
+}
+
+h1 {
+    font: blue;
+}
+
+/*styling for home page*/
+.home {
+    text-align: center;
+    margin-top: 20%;
+}
+
+/*styling for scorecard*/
+.timesup {
+    text-align: center;
+    margin-top: 90px;
+}
+
+.timesup form {
+    margin-bottom: 15px;
+    justify-content: center;
+    margin-left: 25%;
+    margin-right: 25%;  
+}
+
+/*styling for scoreboard*/
+.scoreboard {
+    margin-top: 25%;
+    margin-left: 45%;
 }

@@ -2,31 +2,24 @@
 
 function Search({ search, handleSearchChange, handleSortChange }) {
 
-    const searchStyles= {
-        width: "300px", 
-        display: "inline", 
-    }
 
     return (
-        <div className="ui form" style={{display : 'inline-block'}, searchStyles}>
+        <div className="ui form searchbar">
             <input 
                 type="text" 
                 placeholder="Search..." 
                 name="search" value={search} 
                 onChange={handleSearchChange} 
-                style={searchStyles}
             />
-            <div className="field">
-                <select onChange={handleSortChange} className="ui dropdown" style={searchStyles}>
-                    <option value="all">Select sort option...</option>
-                    <option value="abc">A to Z</option>
-                    <option value="cba">Z to A</option>
-                    <option value="loToHi">Likes: Low to High</option>
-                    <option value="hiToLo">Likes: High to Low</option>
-                    <option value="oldestToYoungest">Oldest to Youngest</option>
-                    <option value="YoungestToOldest">Youngest to Oldest</option>
-                </select>
-            </div>
+            <select onChange={handleSortChange} className="ui dropdown">
+                <option value="all">Select sort option...</option>
+                <option value="abc">A to Z</option>
+                <option value="cba">Z to A</option>
+                <option value="loToHi">Likes: Low to High</option>
+                <option value="hiToLo">Likes: High to Low</option>
+                <option value="oldestToYoungest">Oldest to Youngest</option>
+                <option value="YoungestToOldest">Youngest to Oldest</option>
+            </select>
         </div>
     )
 }

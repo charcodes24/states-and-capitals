@@ -28,7 +28,7 @@
       "image": "https://images.unsplash.com/photo-1574866412308-32d9023633dd?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8YWxhc2thfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
       "fact": "Not only is Alaska the largest state in the country (more than twice as large as Texas), Wrangell–St Elias National Park & Preserve covers a larger area than nine US states.",
       "est": 1959,
-      "likes": 18
+      "likes": 24
     },
     {
       "id": 3,
@@ -43,7 +43,7 @@
       "image": "https://images.unsplash.com/photo-1609810074355-29137827b2c4?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fGFyaXpvbmF8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
       "fact": "Don’t get too close (ouch!) or scratch initials in saguaro cactus; fines for cactus graffiti run up to $5,000.",
       "est": 1912,
-      "likes": 12
+      "likes": 21
     },
     {
       "id": 4,
@@ -58,7 +58,7 @@
       "image": "https://images.unsplash.com/photo-1605027628030-9bb6f83535e6?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8YXJrYW5zYXN8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
       "fact": "Home to America's only operational diamond mine – Crater Diamonds State Park.",
       "est": 1836,
-      "likes": 7
+      "likes": 12
     },
     {
       "id": 5,
@@ -73,7 +73,7 @@
       "image": "https://images.unsplash.com/photo-1446630073557-fca43d580fbe?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjF8fGNhbGlmb3JuaWF8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
       "fact": "California's Sequoia National Park is home to the world's biggest tree by volume, a sequoia named General Sherman.  ",
       "est": 1850,
-      "likes": 9
+      "likes": 14
     },
     {
       "id": 6,
@@ -88,7 +88,7 @@
       "image": "https://images.unsplash.com/photo-1468711007652-03aab17ae4d2?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Y29sb3JhZG98ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
       "fact": "The 13th step leading to the entrance of the Colorado State Capitol in Denver is exactly 1 mile above sea level. ",
       "est": 1876,
-      "likes": 20
+      "likes": 23
     },
     {
       "id": 7,
@@ -118,7 +118,7 @@
       "image": "https://images.unsplash.com/photo-1592945615363-04e156674ae9?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8ZGVsYXdhcmV8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
       "fact": "Jamaican reggae star Bob Marley lived in Delaware from 1965 to 1977. ",
       "est": 1787,
-      "likes": 24
+      "likes": 29
     },
     {
       "id": 9,
@@ -133,7 +133,7 @@
       "image": "https://images.unsplash.com/photo-1605723517503-3cadb5818a0c?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8ZmxvcmlkYXxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
       "fact": "South Florida is the only place in the world where both crocodiles and alligators can be found in the wild. ",
       "est": 1845,
-      "likes": 6
+      "likes": 7
     },
     {
       "id": 10,
@@ -163,7 +163,7 @@
       "image": "https://images.unsplash.com/photo-1505852679233-d9fd70aff56d?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8aGF3YWlpfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
       "fact": "Hawaii has the most isolated large population center on Earth, almost 2,400 miles from California and about 4,000 miles from Japan.",
       "est": 1959,
-      "likes": 11
+      "likes": 14
     },
     {
       "id": 12,
@@ -343,7 +343,7 @@
       "image": "https://images.unsplash.com/photo-1550594427-417e0a74911f?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8bWlubmVzb3RhfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
       "fact": "Bloomington’s Mall of America is 4.87 million square feet and could fit seven Yankee Stadiums inside it. Surprisingly, it’s only the fifth largest shopping mall in the country by retail space.",
       "est": 1858,
-      "likes": 5
+      "likes": 10
     },
     {
       "id": 24,
@@ -508,7 +508,7 @@
       "image": "https://images.unsplash.com/photo-1603328198605-fd20581ccc4f?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8bm9ydGglMjBkYWtvdGF8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
       "fact": "North Dakota is the No. 1 producer of honey in the country.",
       "est": 1889,
-      "likes": 5
+      "likes": 16
     },
     {
       "id": 35,
@@ -538,7 +538,7 @@
       "image": "https://images.unsplash.com/photo-1608240525233-7c6e1657c494?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8b2tsYWhvbWF8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
       "fact": "The official state poem is “Howdy Folks,” an ode to Oklahoma cowboy Will Rogers by David Randolph Milsten.",
       "est": 1907,
-      "likes": 5
+      "likes": 10
     },
     {
       "id": 37,
@@ -568,7 +568,7 @@
       "image": "https://images.unsplash.com/photo-1555424221-250de2a343ad?ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8cGVubnN5bHZhbmlhfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
       "fact": "Pennsylvania’s small town of Indiana is known as the Christmas Tree Capital of the World, a testament to its status as one of the top suppliers of Christmas trees in the country.",
       "est": 1787,
-      "likes": 6
+      "likes": 12
     },
     {
       "id": 39,
@@ -688,7 +688,7 @@
       "image": "https://images.unsplash.com/photo-1603757305215-755d0a254a4b?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8dmlyZ2luaWF8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
       "fact": "Before colonists planted tobacco in Jamestown after a mulberry blight, silk was meant to be this colony’s cash crop.",
       "est": 1788,
-      "likes": 7
+      "likes": 11
     },
     {
       "id": 47,
@@ -758,74 +758,49 @@
   ],
   "scoreboard": [
     {
-      "username": "Char",
-      "score": 5,
+      "username": "Is this fixed yet?",
+      "score": 3,
+      "id": 1
+    },
+    {
+      "username": "Make sure this is fixed",
+      "score": 3,
       "id": 2
     },
     {
-      "username": "Adam",
-      "score": 6,
+      "username": "It's fixed!!!",
+      "score": 4,
       "id": 3
     },
     {
-      "username": "Teresa",
-      "score": 6,
+      "username": "charlrnr",
+      "score": 3,
       "id": 4
     },
     {
-      "username": "",
-      "score": 5,
+      "username": "ana",
+      "score": 4,
       "id": 5
     },
     {
-      "username": "",
-      "score": 4,
+      "username": "debbie",
+      "score": 3,
       "id": 6
     },
     {
-      "username": "charlene",
-      "score": 4,
+      "username": "who am i",
+      "score": 5,
       "id": 7
     },
     {
-      "username": "",
-      "score": 4,
+      "username": "charlene",
+      "score": 2,
       "id": 8
     },
     {
-      "username": "",
-      "score": 4,
+      "username": "WhoAmI",
+      "score": 3,
       "id": 9
-    },
-    {
-      "username": "Iryna",
-      "score": 4,
-      "id": 10
-    },
-    {
-      "username": "",
-      "score": 3,
-      "id": 11
-    },
-    {
-      "username": "winner",
-      "score": 3,
-      "id": 12
-    },
-    {
-      "username": "charlene",
-      "score": 1,
-      "id": 13
-    },
-    {
-      "username": "hello",
-      "score": 4,
-      "id": 14
-    },
-    {
-      "username": "Charlene",
-      "score": 3,
-      "id": 15
     }
   ]
 }

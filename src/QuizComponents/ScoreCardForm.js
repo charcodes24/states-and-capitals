@@ -6,7 +6,6 @@ function ScoreCardForm({ score, addNewScore }) {
         "username": "", 
         "score": score
     })
-    const [isValid, setIsValid] = useState(true)
     const history = useHistory();
 
 
@@ -32,35 +31,32 @@ function ScoreCardForm({ score, addNewScore }) {
                 "score": formData.score
             })
         }
+        if (formData.username.length > 0) {
         fetch(`http://localhost:3000/scoreboard/`, configObj) 
         .then(res => res.json())
         .then(data => {
            console.log(data)
-           if (formData.username.trim().length === 0 ) {
-               setIsValid(false)
-               alert(`please enter a name`)
-           } else {
             history.push("/scoreboard");
            }
-        })
+        )
+    } else {
+        alert('Please enter a name...')
+    }
     }
 
     console.log(formData)
 
     console.log(score)
     return (
-        <div>
+        <div className=" timesup nameform">
             <form onSubmit={handleSubmitScore} className="ui small form">
-                <label style={{color: !isValid ? 'red' : 'black'}}>Name:</label>
+                <label>Name:</label>
                 <input 
                     type="text" 
                     value={formData.username}
                     onChange={handleInput}
-                    style={{borderColor: !isValid ? 'red' : 'black', 
-                            background: !isValid ? 'lightBlue' : 'transparent'
-                        }}
                 />
-                <button className="ui submit button">Submit Score</button>
+                <button className="ui red basic button tu-button">Submit Score</button>
             </form>
         </div>
     )
