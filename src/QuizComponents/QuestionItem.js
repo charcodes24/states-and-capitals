@@ -1,29 +1,32 @@
 import { useState, useEffect } from "react";
 import ScoreCard from "./ScoreCard";
 
-function QuestionItem({ state, answer, nextQuestion, score, handleInput, addNewScore, resetQuiz }) {
-    const [timer, setTimer] = useState(5)
+function QuestionItem({ state, answer, nextQuestion, score, handleInput, resetQuiz }) {
+    const [timer, setTimer] = useState(10)
     const {name, "answers":{answer1, answer2, answer3, answer4} } = state
 
     console.log(state.answers)
 
-    useEffect(() => {
-        timer > 0 && setTimeout(() => setTimer(timer - 1), 1000)
-        
-    }, [timer]);
+    // useEffect(() => {
+    //     timer > 0 && setTimeout(() => setTimer(timer - 1), 1000)
+
+    // }, [timer]);
 
  
 
 
-    function renderQuestion() {
+    // function renderQuestion() {
+    
         return (
             <div>
-                <h5>TIMER: {timer}</h5>
-                <h5>SCORE: {score}/50</h5>
-                <div className="question">
+                <div>
+                    <h5>TIMER: {timer}</h5>
+                    <h5>SCORE: {score}/50</h5>
+                </div>
+                <div>
                     <h3>What's the state capital of {name}?</h3>
-                <div className="ui form">
-                    <div className="inline fields radio checkbox">
+                <div>
+                    <div style={{padding: '10px'}}>
                         <input 
                             type="radio" 
                             id={answer1}
@@ -67,9 +70,9 @@ function QuestionItem({ state, answer, nextQuestion, score, handleInput, addNewS
                 </div>
             </div>
         )
-    }
+    // }
 
-    {return (timer === 0) ? <ScoreCard score={score} resetQuiz={resetQuiz}/> : renderQuestion()}
+    // {return (timer === 0) ? <ScoreCard score={score} resetQuiz={resetQuiz}/> : renderQuestion()}
 
 }
 

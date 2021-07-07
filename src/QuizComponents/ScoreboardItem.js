@@ -1,8 +1,12 @@
 function ScoreboardItem({ score }) {
     
     return (
-        <h3>{score.username}: {score.score}</h3>
+        <tr>
+            <td>{score.username}</td>
+             <td>{score.score}</td>
+        </tr>
     )
 }
+
 
 export default ScoreboardItem

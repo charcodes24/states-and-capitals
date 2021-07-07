@@ -6,6 +6,7 @@ function ScoreCardForm({ score, addNewScore }) {
         "username": "", 
         "score": score
     })
+    const [isValid, setIsValid] = useState(true)
     const history = useHistory();
 
 
@@ -35,7 +36,12 @@ function ScoreCardForm({ score, addNewScore }) {
         .then(res => res.json())
         .then(data => {
            console.log(data)
-           history.push("/scoreboard");
+           if (formData.username.trim().length === 0 ) {
+               setIsValid(false)
+               alert(`please enter a name`)
+           } else {
+            history.push("/scoreboard");
+           }
         })
     }
 
@@ -45,7 +51,15 @@ function ScoreCardForm({ score, addNewScore }) {
     return (
         <div>
             <form onSubmit={handleSubmitScore} className="ui small form">
-                <input type="text" value={formData.username}placeholder="Enter username.." onChange={handleInput}/>
+                <label style={{color: !isValid ? 'red' : 'black'}}>Name:</label>
+                <input 
+                    type="text" 
+                    value={formData.username}
+                    onChange={handleInput}
+                    style={{borderColor: !isValid ? 'red' : 'black', 
+                            background: !isValid ? 'lightBlue' : 'transparent'
+                        }}
+                />
                 <button className="ui submit button">Submit Score</button>
             </form>
         </div>

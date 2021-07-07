@@ -12,6 +12,7 @@
       },
       "image": "https://images.unsplash.com/photo-1547833189-5be29146428d?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8YWxhYmFtYXxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
       "fact": "While Mardi Gras is most associated with New Orleans, the Alabama city of Mobile is where the tradition originated in the US.",
+      "est": 1819,
       "likes": 33
     },
     {
@@ -26,6 +27,7 @@
       },
       "image": "https://images.unsplash.com/photo-1574866412308-32d9023633dd?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8YWxhc2thfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
       "fact": "Not only is Alaska the largest state in the country (more than twice as large as Texas), Wrangell–St Elias National Park & Preserve covers a larger area than nine US states.",
+      "est": 1959,
       "likes": 18
     },
     {
@@ -40,6 +42,7 @@
       },
       "image": "https://images.unsplash.com/photo-1609810074355-29137827b2c4?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fGFyaXpvbmF8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
       "fact": "Don’t get too close (ouch!) or scratch initials in saguaro cactus; fines for cactus graffiti run up to $5,000.",
+      "est": 1912,
       "likes": 12
     },
     {
@@ -54,6 +57,7 @@
       },
       "image": "https://images.unsplash.com/photo-1605027628030-9bb6f83535e6?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8YXJrYW5zYXN8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
       "fact": "Home to America's only operational diamond mine – Crater Diamonds State Park.",
+      "est": 1836,
       "likes": 7
     },
     {
@@ -68,6 +72,7 @@
       },
       "image": "https://images.unsplash.com/photo-1446630073557-fca43d580fbe?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjF8fGNhbGlmb3JuaWF8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
       "fact": "California's Sequoia National Park is home to the world's biggest tree by volume, a sequoia named General Sherman.  ",
+      "est": 1850,
       "likes": 9
     },
     {
@@ -82,6 +87,7 @@
       },
       "image": "https://images.unsplash.com/photo-1468711007652-03aab17ae4d2?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Y29sb3JhZG98ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
       "fact": "The 13th step leading to the entrance of the Colorado State Capitol in Denver is exactly 1 mile above sea level. ",
+      "est": 1876,
       "likes": 20
     },
     {
@@ -96,6 +102,7 @@
       },
       "image": "https://images.unsplash.com/photo-1598040452656-f3657cdb27aa?ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8M3w5MjU0MDM4fHxlbnwwfHx8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
       "fact": "“Yankee Doodle,” the state song, is believed to have been penned in derision by the British about Connecticut volunteers in the French and Indian War. ",
+      "est": 1788,
       "likes": 5
     },
     {
@@ -110,7 +117,8 @@
       },
       "image": "https://images.unsplash.com/photo-1592945615363-04e156674ae9?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8ZGVsYXdhcmV8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
       "fact": "Jamaican reggae star Bob Marley lived in Delaware from 1965 to 1977. ",
-      "likes": 18
+      "est": 1787,
+      "likes": 24
     },
     {
       "id": 9,
@@ -124,6 +132,7 @@
       },
       "image": "https://images.unsplash.com/photo-1605723517503-3cadb5818a0c?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8ZmxvcmlkYXxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
       "fact": "South Florida is the only place in the world where both crocodiles and alligators can be found in the wild. ",
+      "est": 1845,
       "likes": 6
     },
     {
@@ -138,6 +147,7 @@
       },
       "image": "https://images.unsplash.com/photo-1612461519938-53e83d4a9fa3?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fGdlb3JnaWElMkMlMjB1c2F8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
       "fact": "Gainesville, Georgia, often considered the poultry capital of the world, passed a 1961 law making it illegal to eat fried chicken with a fork. ",
+      "est": 1788,
       "likes": 2
     },
     {
@@ -152,7 +162,8 @@
       },
       "image": "https://images.unsplash.com/photo-1505852679233-d9fd70aff56d?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8aGF3YWlpfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
       "fact": "Hawaii has the most isolated large population center on Earth, almost 2,400 miles from California and about 4,000 miles from Japan.",
-      "likes": 8
+      "est": 1959,
+      "likes": 11
     },
     {
       "id": 12,
@@ -166,6 +177,7 @@
       },
       "image": "https://images.unsplash.com/photo-1570188973506-253e77d46c12?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8aWRhaG98ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
       "fact": "Yes, there is an Idaho Potato Museum. Yes, Idaho potatoes are an exceptionally delicious and abundant crop. You’ve probably had one; 13 billion pounds are harvested yearly. ",
+      "est": 1890,
       "likes": 2
     },
     {
@@ -180,6 +192,7 @@
       },
       "image": "https://images.unsplash.com/photo-1556684996-c32e7604965a?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8aWxsaW5vaXN8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
       "fact": "Willis Tower (formerly Sears Tower) was the tallest building in the Americas until One World Trade Center in New York City eclipsed it, but the Willis Tower roof stands 100ft higher than that of One WTC, which took the title based on its lofty spire. ",
+      "est": 1818,
       "likes": 10
     },
     {
@@ -194,6 +207,7 @@
       },
       "image": "https://images.unsplash.com/photo-1514442624917-484106ff24b3?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8aW5kaWFuYXxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
       "fact": "Indiana, the “Crossroads of America,” has more miles of interstate per sq mile than any other US state. ",
+      "est": 1816,
       "likes": 2
     },
     {
@@ -208,6 +222,7 @@
       },
       "image": "https://images.unsplash.com/photo-1610569555726-421a8a404d62?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8aW93YXxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
       "fact": "The Iowa State Fair began in 1854 and has been held every year on the Iowa State Fairground since 1856. One of the largest and most well-known state fairs in America takes place over 11 days in August, encompassing more than 450 acres filled with campsites, live music stages and over 200 vendors selling food. ",
+      "est": 1846,
       "likes": 2
     },
     {
@@ -222,6 +237,7 @@
       },
       "image": "https://images.unsplash.com/photo-1593471000693-aa09778d706b?ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8a2Fuc2FzfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
       "fact": "It was once illegal to put a scoop of ice cream on cherry pie.",
+      "est": 1861,
       "likes": 2
     },
     {
@@ -236,6 +252,7 @@
       },
       "image": "https://images.unsplash.com/photo-1578582805561-4abd22211b9e?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8a2VudHVja3l8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
       "fact": "Although Kentucky is the home of bourbon, about a fifth of the state’s 120 counties are completely dry, meaning no liquor sales allowed. ",
+      "est": 1792,
       "likes": 2
     },
     {
@@ -250,7 +267,8 @@
       },
       "image": "https://images.unsplash.com/photo-1568693059993-a239b9cd4957?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8bG91aXNpYW5hfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
       "fact": "Thanks to its French heritage, Louisiana is the only state in the country to adhere to a civil law system, as opposed to the common law used in the other 49 states.",
-      "likes": 7
+      "est": 1812,
+      "likes": 14
     },
     {
       "id": 19,
@@ -264,6 +282,7 @@
       },
       "image": "https://images.unsplash.com/photo-1502120663599-9d25e3b546a6?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8bWFpbmV8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
       "fact": "Maine has almost 60 active lighthouses along its coast.",
+      "est": 1820,
       "likes": 3
     },
     {
@@ -278,6 +297,7 @@
       },
       "image": "https://images.unsplash.com/photo-1601562219653-0f16522227b3?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTR8fG1hcnlsYW5kfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
       "fact": "Baltimore’s NFL franchise is the namesake of local author Edgar Allan Poe’s poem “The Raven.”",
+      "est": 1788,
       "likes": 7
     },
     {
@@ -292,6 +312,7 @@
       },
       "image": "https://images.unsplash.com/photo-1606961898378-1892752d943b?ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8bWFzc2FjaHVzZXR0c3xlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
       "fact": "Lake Chargo-ggagoggm-anchaug-gagoggcha-ubunagun gamaugg, in the town of Webster, is the longest place-name in America.",
+      "est": 1788,
       "likes": 7
     },
     {
@@ -306,6 +327,7 @@
       },
       "image": "https://images.unsplash.com/photo-1589025010568-0f772b6e145e?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8bWljaGlnYW58ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
       "fact": "Mackinac Bridge crosses 5 miles over the Straits of Mackinac; its exposed span means that the bridge sometimes closes due to extreme weather.",
+      "est": 1837,
       "likes": 5
     },
     {
@@ -320,6 +342,7 @@
       },
       "image": "https://images.unsplash.com/photo-1550594427-417e0a74911f?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8bWlubmVzb3RhfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
       "fact": "Bloomington’s Mall of America is 4.87 million square feet and could fit seven Yankee Stadiums inside it. Surprisingly, it’s only the fifth largest shopping mall in the country by retail space.",
+      "est": 1858,
       "likes": 5
     },
     {
@@ -334,7 +357,8 @@
       },
       "image": "https://images.unsplash.com/photo-1606494108752-9ae72e2ee1c9?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8bWlzc2lzc2lwcGl8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
       "fact": "The name of the state comes from the Ojibwe words Misi zipi, or “Great River.”",
-      "likes": 2
+      "est": 1817,
+      "likes": 7
     },
     {
       "id": 25,
@@ -348,6 +372,7 @@
       },
       "image": "https://images.unsplash.com/photo-1514893011-72dfa15bd29c?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8bWlzc291cml8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
       "fact": "Missouri was named after a tribe of Sioux Indians called the Missouria, or Missouri. The name means “he of the big canoe”.",
+      "est": 1821,
       "likes": 2
     },
     {
@@ -362,6 +387,7 @@
       },
       "image": "https://images.unsplash.com/photo-1610833783667-f00a448a97f0?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8bW9udGFuYXxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
       "fact": "The only state in the US with a Triple Divide, which allows waters to flow to Hudson Bay, the Atlantic Ocean, and the Pacific Ocean.",
+      "est": 1889,
       "likes": 3
     },
     {
@@ -376,6 +402,7 @@
       },
       "image": "https://images.unsplash.com/photo-1601995163168-0894a017d6d1?ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8bmVicmFza2F8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
       "fact": "Kool-Aid was invented in the town of Hastings in 1927. ",
+      "est": 1867,
       "likes": 3
     },
     {
@@ -390,6 +417,7 @@
       },
       "image": "https://images.unsplash.com/flagged/photo-1585766850532-cdc0d9a3b36b?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8bmV2YWRhfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
       "fact": "Averaging about 10 inches of rain a year, Nevada is the driest state in the US.",
+      "est": 1864,
       "likes": 3
     },
     {
@@ -404,6 +432,7 @@
       },
       "image": "https://images.unsplash.com/photo-1541427468627-a89a96e5ca1d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8bmV3JTIwaGFtcHNoaXJlfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
       "fact": "The first free public library was founded in Peterborough, New Hampshire in 1833.",
+      "est": 1788,
       "likes": 2
     },
     {
@@ -418,6 +447,7 @@
       },
       "image": "https://images.unsplash.com/photo-1581782454084-d674f222419c?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8bmV3JTIwamVyc2V5fGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
       "fact": "New Jersey has the most diners in the country. ",
+      "est": 1787,
       "likes": 2
     },
     {
@@ -432,6 +462,7 @@
       },
       "image": "https://images.unsplash.com/photo-1552323543-4cffa4ffffe3?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8bmV3JTIwbWV4aWNvfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
       "fact": "New Mexico has an official state question: “Red or green?” This refers to which variety of chile sauce you’d like on your food. Answer “Christmas,” and you’ll get both.",
+      "est": 1912,
       "likes": 2
     },
     {
@@ -446,6 +477,7 @@
       },
       "image": "https://images.unsplash.com/photo-1490644658840-3f2e3f8c5625?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8bmV3JTIweW9ya3xlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
       "fact": "George Washington was declared Commander in Chief at NYC’s Federal Hall at the first United States Congress in 1789.",
+      "est": 1788,
       "likes": 4
     },
     {
@@ -460,6 +492,7 @@
       },
       "image": "https://images.unsplash.com/photo-1605632200987-60fa857d4a15?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8bm9ydGglMjBjYXJvbGluYXxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
       "fact": "The waters off the Outer Banks became known as “The Graveyard of the Atlantic” after causing over 1,000 shipwrecks amidst its sandbars and strong currents.",
+      "est": 1789,
       "likes": 4
     },
     {
@@ -474,6 +507,7 @@
       },
       "image": "https://images.unsplash.com/photo-1603328198605-fd20581ccc4f?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8bm9ydGglMjBkYWtvdGF8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
       "fact": "North Dakota is the No. 1 producer of honey in the country.",
+      "est": 1889,
       "likes": 5
     },
     {
@@ -488,6 +522,7 @@
       },
       "image": "https://images.unsplash.com/photo-1501631454901-2fe040439c00?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8b2hpb3xlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
       "fact": "Ohio’s state flag is the only burgee-shaped one in the country (it’s like a pennant with a triangle missing at the end). ",
+      "est": 1803,
       "likes": 3
     },
     {
@@ -502,6 +537,7 @@
       },
       "image": "https://images.unsplash.com/photo-1608240525233-7c6e1657c494?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8b2tsYWhvbWF8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
       "fact": "The official state poem is “Howdy Folks,” an ode to Oklahoma cowboy Will Rogers by David Randolph Milsten.",
+      "est": 1907,
       "likes": 5
     },
     {
@@ -516,6 +552,7 @@
       },
       "image": "https://images.unsplash.com/photo-1534260574464-1974fc1e6727?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8b3JlZ29ufGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
       "fact": "Oregon is home to the world’s largest living organism, a fungal colony in the state’s Blue Mountains.",
+      "est": 1859,
       "likes": 6
     },
     {
@@ -530,6 +567,7 @@
       },
       "image": "https://images.unsplash.com/photo-1555424221-250de2a343ad?ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8cGVubnN5bHZhbmlhfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
       "fact": "Pennsylvania’s small town of Indiana is known as the Christmas Tree Capital of the World, a testament to its status as one of the top suppliers of Christmas trees in the country.",
+      "est": 1787,
       "likes": 6
     },
     {
@@ -544,7 +582,8 @@
       },
       "image": "https://images.unsplash.com/photo-1579379498402-48d6751d1ae9?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8cmhvZGUlMjBpc2xhbmR8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
       "fact": "Rhode Island played host to the first open golf tournament in 1865.",
-      "likes": 2
+      "est": 1790,
+      "likes": 7
     },
     {
       "id": 40,
@@ -558,7 +597,8 @@
       },
       "image": "https://images.unsplash.com/photo-1568484139262-56c5bea2e66f?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8c291dGglMjBjYXJvbGluYXxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
       "fact": "The official state dance is called the “shag.” Quit your giggling, it’s a form of the jitterbug.",
-      "likes": 4
+      "est": 1788,
+      "likes": 7
     },
     {
       "id": 41,
@@ -572,7 +612,8 @@
       },
       "image": "https://images.unsplash.com/photo-1447727214830-cbcbf097b52c?ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8c291dGglMjBkYWtvdGF8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
       "fact": "South Dakota has more lines of shoreline than Florida.",
-      "likes": 2
+      "est": 1889,
+      "likes": 7
     },
     {
       "id": 42,
@@ -586,6 +627,7 @@
       },
       "image": "https://images.unsplash.com/photo-1588167961380-280dbd18a70e?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8dGVubmVzc2VlfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
       "fact": "Nashville’s Grand Ole Opry hosts the longest continuously running live radio program in the world, broadcast every weekend since 1925.",
+      "est": 1796,
       "likes": 6
     },
     {
@@ -600,6 +642,7 @@
       },
       "image": "https://images.unsplash.com/photo-1530089711124-9ca31fb9e863?ixid=MnwxMjA3fDB8MHxzZWFyY2h8OXx8dGV4YXN8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
       "fact": "The official state dessert is pecan pie, surely because the state is so rich in pecan trees (it’s third in the nation for its pecan harvest). Ooey, gooey and delicious, Lady Bird Johnson brought a recipe for this favorite Texas treat along to the White House when she became first lady.",
+      "est": 1845,
       "likes": 5
     },
     {
@@ -614,6 +657,7 @@
       },
       "image": "https://images.unsplash.com/photo-1575408264798-b50b252663e6?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXRhaHxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
       "fact": "Pando, a grove of quaking aspens in Utah’s Fishlake National Forest, is one of the world’s largest and oldest living organisms, linked through a shared root system. ",
+      "est": 1896,
       "likes": 2
     },
     {
@@ -628,6 +672,7 @@
       },
       "image": "https://images.unsplash.com/photo-1604880050467-6ecc9ec909b3?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8dmVybW9udHxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
       "fact": "Vermont is the only state in the US to have its very own state flavor. That’s right: it’s maple.",
+      "est": 1791,
       "likes": 2
     },
     {
@@ -642,7 +687,8 @@
       },
       "image": "https://images.unsplash.com/photo-1603757305215-755d0a254a4b?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8dmlyZ2luaWF8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
       "fact": "Before colonists planted tobacco in Jamestown after a mulberry blight, silk was meant to be this colony’s cash crop.",
-      "likes": 1
+      "est": 1788,
+      "likes": 7
     },
     {
       "id": 47,
@@ -656,7 +702,8 @@
       },
       "image": "https://images.unsplash.com/photo-1596688056149-f649dc280cc8?ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8d2FzaGluZ3RvbnxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
       "fact": "Pub trivia in Seattle might host a picture round of salmon; Washingtonians are expected to know their spawning chinook from non-spawning coho.",
-      "likes": 4
+      "est": 1889,
+      "likes": 5
     },
     {
       "id": 48,
@@ -675,6 +722,7 @@
       ],
       "image": "https://images.unsplash.com/photo-1483141531895-191b34d33fd8?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8d2VzdCUyMHZpcmdpbmlhfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
       "fact": "On the third Saturday in October, hundreds of BASE jumpers parachute from the 876 foot-high New River Gorge Bridge, which is closed to vehicles for the event. Pedestrians can stroll the bridge, watch the action and shop at the many vendors.",
+      "est": 1863,
       "likes": 2
     },
     {
@@ -689,6 +737,7 @@
       },
       "image": "https://images.unsplash.com/photo-1561467059-f815ae1ef5eb?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8d2lzY29uc2lufGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
       "fact": "The Green Bay Packers are owned by the people of Green Bay (pop. just over 100,000). The football team is a nonprofit whose fans support it, and the team supports them with a bolstered economy, plenty of charitable giving and even a Lombardi Trophy from time to time. ",
+      "est": 1848,
       "likes": 2
     },
     {
@@ -703,149 +752,75 @@
       },
       "image": "https://images.unsplash.com/photo-1520051556831-05103c639f8e?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTh8fHd5b21pbmd8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
       "fact": "Devil's Tower was the first national monument in the US in 1906.",
-      "likes": 2
+      "est": 1890,
+      "likes": 7
     }
   ],
   "scoreboard": [
     {
-      "username": "charlene",
-      "score": 1,
-      "id": 1
-    },
-    {
-      "username": "blahblahblah",
-      "score": 2,
+      "username": "Char",
+      "score": 5,
       "id": 2
     },
     {
-      "username": "Hello",
-      "score": 1,
+      "username": "Adam",
+      "score": 6,
       "id": 3
     },
     {
-      "username": "",
-      "score": 1,
+      "username": "Teresa",
+      "score": 6,
       "id": 4
     },
     {
       "username": "",
-      "score": 1,
+      "score": 5,
       "id": 5
     },
     {
       "username": "",
-      "score": 2,
+      "score": 4,
       "id": 6
     },
     {
-      "username": "",
+      "username": "charlene",
       "score": 4,
       "id": 7
     },
     {
-      "username": "i dont know",
-      "score": 1,
+      "username": "",
+      "score": 4,
       "id": 8
     },
     {
-      "username": "charlene",
-      "score": 1,
+      "username": "",
+      "score": 4,
       "id": 9
     },
     {
-      "username": "charlene",
-      "score": 1,
+      "username": "Iryna",
+      "score": 4,
       "id": 10
     },
     {
-      "username": "hello",
-      "score": 2,
+      "username": "",
+      "score": 3,
       "id": 11
     },
     {
-      "username": "hello",
-      "score": 2,
+      "username": "winner",
+      "score": 3,
       "id": 12
     },
     {
-      "username": "hello",
-      "score": 2,
+      "username": "charlene",
+      "score": 1,
       "id": 13
     },
     {
       "username": "hello",
-      "score": 2,
+      "score": 4,
       "id": 14
-    },
-    {
-      "username": "hello",
-      "score": 2,
-      "id": 15
-    },
-    {
-      "username": "hello",
-      "score": 2,
-      "id": 16
-    },
-    {
-      "username": "hello",
-      "score": 2,
-      "id": 17
-    },
-    {
-      "username": "hello",
-      "score": 2,
-      "id": 18
-    },
-    {
-      "username": "hello",
-      "score": 2,
-      "id": 19
-    },
-    {
-      "username": "hello",
-      "score": 2,
-      "id": 20
-    },
-    {
-      "username": "hello",
-      "score": 2,
-      "id": 21
-    },
-    {
-      "username": "hello",
-      "score": 2,
-      "id": 22
-    },
-    {
-      "username": "hello",
-      "score": 2,
-      "id": 23
-    },
-    {
-      "username": "",
-      "score": 2,
-      "id": 24
-    },
-    {
-      "username": "got it",
-      "score": 2,
-      "id": 25
-    },
-    {
-      "username": "iWin",
-      "score": 1,
-      "id": 26
-    },
-    {
-      "username": "",
-      "score": 1,
-      "id": 27
-    },
-    {
-      "username": "",
-      "score": 1,
-      "id": 28
     }
   ]
 }

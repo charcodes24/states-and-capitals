@@ -5,17 +5,13 @@ import Search from "./Search";
 function FunFacts({ states, updateLikes } ) {
     const [search, setSearch] = useState("")
     const [sort, setSort] = useState("all")
-  
-  
-      //set search state upon input in search box
-      function handleSearchChange(e) {
-          setSearch(e.target.value)
-      }
+
+    function handleSearchChange(e) {
+        setSearch(e.target.value)
+    }
       
-    //return states that start with search state value
     const searchStates = states.filter((state) => state.name.toLowerCase().startsWith(search.toLowerCase()))
     
-    //set sort state to value to option selected
     function handleSortChange(e) {
         setSort(e.target.value)
     }
@@ -32,6 +28,10 @@ function FunFacts({ states, updateLikes } ) {
             return state1.likes - state2.likes
         } else if (sort === "hiToLo") {
             return state2.likes - state1.likes
+        } else if (sort === "oldestToYoungest") {
+            return state1.est - state2.est
+        } else if (sort === "youngestToOldest") {
+            return state2.est - state1.est
         }
     })
 
@@ -47,13 +47,16 @@ function FunFacts({ states, updateLikes } ) {
     return (
         <div>
             <div>
+                <h1 style={{textAlign: 'center'}}>Fun Facts...</h1>
+            </div>
+            <div style={{textAlign: 'center'}}>
             <Search 
             search={search}
             handleSearchChange={handleSearchChange}
             handleSortChange={handleSortChange}
             />
             </div>
-            <div className="ui grid">
+            <div className="ui grid" style={{padding: '10px'}}>
                 <div className="two column row">
                 {displayStates}
                 </div>

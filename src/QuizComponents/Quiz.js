@@ -1,15 +1,12 @@
 import { useState } from "react";
-import { Route } from "react-router-dom";
 import QuestionItem from "./QuestionItem";
-import Scoreboard from "./Scoreboard";
 
 function Quiz({ states }) {
-    //useEffect 
-    const [questionIndex, setQuestionIndex] = useState(Math.floor(Math.random() * states.length));
     const [displayQuestion, setDisplayQuestion] = useState(false)
     const [score, setScore] = useState(0)
     const [answer, setAnswer] = useState("")
     const [hideButton, setHideButton] = useState(false)
+    const [questionIndex, setQuestionIndex] = useState(0);
   
   function handleInput(e) {
     setAnswer(e.target.value)
@@ -22,11 +19,8 @@ function Quiz({ states }) {
     setHideButton(!hideButton)
   }
 
-
   function nextQuestion(e) {
-      //initial value to be 0
-      //useEffect when states change set question index 
-    setQuestionIndex(Math.floor(Math.random() * states.length))
+    setQuestionIndex(questionIndex + 1)
     if (answer === states[questionIndex].capital) {
       setScore(score + 1)
       setAnswer(e.target.value)
@@ -43,7 +37,6 @@ function Quiz({ states }) {
   }
 
   function renderQuestionItem() {
-      console.log(states, questionIndex)
     if (states.length > 0) {
     return (
       <QuestionItem
@@ -61,8 +54,14 @@ function Quiz({ states }) {
 
   function renderStartQuizButton() {
     return (
-      <div>
-        <button onClick={toggleDisplayQuestion} style={{display: hideButton ? 'block' : null}} className="ui button">Start Quiz!</button>
+      <div style={{textAlign: 'center'}}>
+        <h1 style={{color: 'blue'}}>How many states & capitals can you get right in 60 seconds?</h1>
+        <button 
+          onClick={toggleDisplayQuestion} 
+          style={{display: hideButton ? 'block' : null}} 
+          className="ui red basic button">
+          Start Quiz!
+        </button>
       </div>
     )
   }

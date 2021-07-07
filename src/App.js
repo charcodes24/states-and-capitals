@@ -14,10 +14,12 @@ function App() {
   useEffect(() => {
     fetch('http://localhost:3000/states')
     .then(res => res.json())
-    .then(data => {
-      console.log(data)
-      setStates(data)})
+    .then(states => {
+      const shuffledArray = states.sort((a, b) => 0.5 - Math.random());
+      setStates(shuffledArray)})
   }, []);
+
+  console.log(states)
 
 
   function updateLikes(updatedObj) {

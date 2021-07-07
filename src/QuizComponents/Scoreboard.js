@@ -10,21 +10,33 @@ function Scoreboard() {
         .then(data => setScoreboard(data))
     }, []);
 
-    //add key attribute
-    //display 10: sort by scores, slice off first 10
+    const tableDisplay = {
+        width: "100px", 
+        height: "500px"
+    }
+
+
 
     const displayScores = scoreboard.map((score) => {
         return (
             <ScoreboardItem
+            key={score.id}
             score={score}
             />
         )
     })
 
     return (
-        <div>
-            <h1>Top 10 Scores</h1>
-            {displayScores}
+        <div style={tableDisplay}>
+            <h1 style={{color: 'red'}}>Top 10 Scores...</h1>
+            <table class="ui inverted blue table">
+                <thead>
+                    <tr><th>Name</th>
+                    <th>Score</th>\
+                </tr></thead><tbody>
+                    {displayScores}
+                </tbody>
+            </table>
         </div>
     )
 }
