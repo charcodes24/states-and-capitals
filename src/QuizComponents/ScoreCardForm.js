@@ -15,10 +15,7 @@ function ScoreCardForm({ score, addNewScore }) {
             "score": score
         })
     }
-
-    //separate route called top scores
-    //push new route into history 
-
+    
     function handleSubmitScore(e) {
         e.preventDefault();
         const configObj = {

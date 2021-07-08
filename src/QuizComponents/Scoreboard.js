@@ -39,13 +39,6 @@ function Scoreboard() {
                 </tbody>
             </table>
         </div>
-
-        // <div className="scoreboard">
-        //     <h1>Top 10 Scores...</h1>
-        //         <ol className="ordered-list">
-        //         {displayScores}
-        //         </ol>
-        // </div>
     )
 }
 

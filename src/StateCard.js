@@ -55,24 +55,6 @@ function StateCard({ state, updateLikes }) {
         </div>
       </div>
     )
-
-
-    // return (
-    //     <div className="column">
-    //         <h2>{name}</h2>
-    //         <h3>Capital:{capital}</h3>
-    //         <img src={image} className="image" style={imageStyle}/>
-    //         <p>Fun Fact: {fact}</p>
-    //         <div onClick={upVote} className="ui labeled button" tabindex="0">
-    //             <div className="ui button">
-    //                 <i className="heart icon"></i> Like
-    //             </div>
-    //             <a className="ui basic left pointing label">
-    //              {likes}
-    //             </a>
-    //         </div>
-    //     </div>
-    // )
 }
 
 export default StateCard;

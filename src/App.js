@@ -34,8 +34,6 @@ function App() {
     })
   }
 
-  //sort & filter up here
-
 
   return (
     <div>
