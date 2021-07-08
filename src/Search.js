@@ -8,7 +8,8 @@ function Search({ search, handleSearchChange, handleSortChange }) {
             <input 
                 type="text" 
                 placeholder="Search..." 
-                name="search" value={search} 
+                name="search" 
+                value={search} 
                 onChange={handleSearchChange} 
             />
             <select onChange={handleSortChange} className="ui dropdown">
