@@ -2,7 +2,7 @@ import { useState, useEffect } from "react";
 import ScoreCard from "./ScoreCard";
 
 function QuestionItem({ state, answer, nextQuestion, score, handleInput, resetQuiz }) {
-    const [timer, setTimer] = useState(10)
+    const [timer, setTimer] = useState(60)
     const {name, "answers":{answer1, answer2, answer3, answer4} } = state
 
     useEffect(() => {
